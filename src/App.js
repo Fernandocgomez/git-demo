@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import logo2 from './cat-git.png';
 
 import './App.css';
